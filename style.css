@@ -3,3 +3,10 @@ body {
   font-family: Arial, sans-serif;
   background: #f9f9f9;
 }
+/* Commit 2 - Header styling */
+header {
+  background: #333;
+  color: #fff;
+  padding: 40px 20px;
+  text-align: center;
+}
