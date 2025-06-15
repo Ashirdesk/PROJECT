@@ -10,6 +10,13 @@ header {
   padding: 40px 20px;
   text-align: center;
 }
+/* Commit 3 - Footer styling */
+footer {
+  background: #222;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
